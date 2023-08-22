@@ -1,7 +1,7 @@
 # Streak
 
 
-### tl;dr - A connect-4 type game with a lot more fun and customisation!
+### TL;DR - A connect-4 type game with a lot more fun and customisation!
 
 <img width="698" alt="Screenshot 2023-08-22 at 8 22 51 PM" src="https://github.com/pran13-git/Streak/assets/72128521/b9fd0fe2-9d8a-406e-ae26-81bdd49c8871">
 
