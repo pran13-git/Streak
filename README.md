@@ -1,5 +1,9 @@
 # Streak
+
+
 ### tl;dr - A connect-4 type game with a lot more fun and customisation!
+
+<img width="698" alt="Screenshot 2023-08-22 at 8 22 51 PM" src="https://github.com/pran13-git/Streak/assets/72128521/b9fd0fe2-9d8a-406e-ae26-81bdd49c8871">
 
 ### Long story:
 
@@ -14,3 +18,6 @@ streak of tokens would have to contain 4 for the Novice Easy mode, 5 for the
 Amateur Medium mode and 6 for the Pro Hard mode. Each player also has an
 individual time limit of 200 seconds for playing all their moves. If a player runs
 out of time, the other player is automatically declared as the winner.
+<img width="699" alt="Screenshot 2023-08-22 at 8 23 22 PM" src="https://github.com/pran13-git/Streak/assets/72128521/02ac8326-504e-4af6-aa52-e1947b630a20">
+
+<img width="699" alt="Screenshot 2023-08-22 at 8 24 48 PM" src="https://github.com/pran13-git/Streak/assets/72128521/51639049-2ac5-469d-8566-4c4201dc87d1">
